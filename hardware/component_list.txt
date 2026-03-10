@@ -1,0 +1,6 @@
+Component List:
+voltage sensor x2
+current sensor x1
+arudiuno uno x1
+buck convereter x1 
+potentiometer x1
